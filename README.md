@@ -15,6 +15,7 @@ Open source project to build an ECU to convert generatio 2 Prius into extended r
 
 The exact physical layout is not specified yet in this project.  but the controller board is currently focusing on the Duinomite Mega with a second CAN bus extension.
 
+![Design Overview](https://docs.google.com/drawings/pub?id=1tdtpWTT6fO31E0_xaCW_vWEFJS9VxfQVcImfDqD1TjA&w=1058&h=1081)
 
 How to get started
 ==================
