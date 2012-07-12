@@ -4,9 +4,9 @@ PHEVCU
 Plug-In Hybrid Electric Vehicle Control Unit for [Gen 2 Prius](http://en.wikipedia.org/wiki/Toyota_Prius#Second_generation_.28XW20.3B_2003.E2.80.932009.29)
 
 This GIT is an offshoot of several PriusChat.org forum discussions include:
-*["De"-nginer by BruceMe](http://priuschat.com/threads/de-nginer.111713/)
-*[Yipep by JDH](http://priuschat.com/threads/yapip-recreating-peefs-approach.109724/)
-*[Decoding 0x348-0x3c8 by LopezJM](http://priuschat.com/threads/decoding-can-messages-0x348-0x3c8-as-described-by-peef.110042/)
+* ["De"-nginer by BruceMe](http://priuschat.com/threads/de-nginer.111713/)
+* [Yipep by JDH](http://priuschat.com/threads/yapip-recreating-peefs-approach.109724/)
+* [Decoding 0x348-0x3c8 by LopezJM](http://priuschat.com/threads/decoding-can-messages-0x348-0x3c8-as-described-by-peef.110042/)
 
 Background
 ==========
