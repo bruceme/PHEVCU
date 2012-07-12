@@ -25,7 +25,7 @@ How to get started
 * Upgrade firmware to DMBASIC 2.7b, 
    http://www.duinomite.com/duinomite-firmware-update-guide/   
 
-* Run CANECHO.BAS
+* Run CANVIEW.BAS
 
 
 Areas of ongoing interest
