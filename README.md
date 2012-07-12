@@ -25,7 +25,13 @@ How to get started
 * Upgrade firmware to DMBASIC 2.7b, 
    http://www.duinomite.com/duinomite-firmware-update-guide/   
 
-* Run CANVIEW.BAS
+* Copy PHEVCU.BAS to SIM card
+
+* Insert into Duinomite
+
+* Load "PHEVCU.BAS"
+
+* RUN
 
 
 Areas of ongoing interest
