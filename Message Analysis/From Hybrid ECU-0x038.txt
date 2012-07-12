@@ -1,0 +1,11 @@
+038.B0.b3 = start engine request
+038.B0.b5 = only seen two brief occurences (one message each) in one data file so far
+038.B0.b6 = READY (is this the actual one and only READY signal or something else that is high all the time?)
+
+038.B2.b0 = seems somewhat related to b2 & b4
+038.B2.b1 = no obvious pattern and seems to have its own unique activity pattern
+038.B2.b2 = seems somewhat related to b0 & b4
+038.B2.b4 = seems somewhat related to b2 & b0
+
+
+Read more: http://priuschat.com/threads/yapip-recreating-peefs-approach.109724/page-8#ixzz20QAqRfID

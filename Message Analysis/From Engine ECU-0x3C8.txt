@@ -1,0 +1,6 @@
+3C8.B1.b0 = only 3 brief (one message?) occurrences, two of which occur close to transition from spin to no spin (and one that doesn't!)
+3C8.B1.b1 = is this engine warm up request? it transitions high matching first engine on and transitions low when ECT > 50C
+3C8.B1.b2 = follows 348.B0.b2 but with different timing
+3C8.B1.b4 = follows 348.B1.b3
+
+Read more: http://priuschat.com/threads/yapip-recreating-peefs-approach.109724/page-8#ixzz20QB9y63U

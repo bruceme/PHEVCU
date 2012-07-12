@@ -1,0 +1,9 @@
+348.B0.b2 = engine spinning (inverse of 348.B1.b0)
+
+348.B1.b0 = engine not spinning (inverse of 348.B0.b2)
+348.B1.b1 = no obvious pattern except that it's only ever active when engine spinning
+348.B1.b3 = follows 3C8.B1.b4
+348.B1.b5 = follows 348.B0.b2 but with different timing on hight->low transition
+348.B1.b6 = follows 348.B0.b2 with very similar timing
+
+Read more: http://priuschat.com/threads/yapip-recreating-peefs-approach.109724/page-8#ixzz20QB1Rqz9
